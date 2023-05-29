@@ -6,7 +6,7 @@ const App = () => (
   <html lang="pl">
     <head>
       <meta charset="utf-8" />
-      <title>templatka</title>
+      <title>buldog</title>
       <meta name="description" content="temlate" />
       <meta name="author" content="SitePoint" />
       <link rel="stylesheet" href="css/styles.css?v=1.0" />
